@@ -77,7 +77,7 @@ def convert_to_csv(result,word_by_word):
     """
 
     if word_by_word:
-        with open("transcription_with_times.csv", "w", newline="", encoding="utf-8") as csvfile:
+        with open("transcription.csv", "w", newline="", encoding="utf-8") as csvfile:
             csvwriter = csv.writer(csvfile)
             
             csvwriter.writerow(["word", "start", "stop"])
