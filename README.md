@@ -1,7 +1,7 @@
 # **Testing OpenAI Whisper for Video Transcription**
 
 ## **Project Overview**
-This project demonstrates how to use OpenAI's Whisper model to transcribe audio from video files into text. The workflow involves extracting audio from video using tools like `ffmpeg` and then leveraging Whisper's capabilities to generate accurate transcriptions.
+This project demonstrates how to use OpenAI's Whisper model to transcribe audio from video files into text. The workflow involves extracting audio from video using tools like `ffmpeg` and then leveraging Whisper's capabilities to generate transcriptions.
 
 
 ## **Getting Started**
