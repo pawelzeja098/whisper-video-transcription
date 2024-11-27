@@ -10,11 +10,11 @@ This project demonstrates how to use OpenAI's Whisper model to transcribe audio 
 Make sure you have the following installed on your system:
 - **Python**: `3.8` - `3.11`
 - **ffmpeg**: Required for audio extraction from video files  
-  - On **Windows**, example to add `ffmpeg/bin` your system's PATH :
+  - On **Windows**, example to add `ffmpeg/bin` to your system's PATH in VSC :
     ```powershell
     $env:PATH += ";D:\ffmpeg\bin"
     ```
-  - On **Linux**, set the `LD_LIBRARY_PATH` to include the necessary libraries:
+  - On **Linux**, set the `LD_LIBRARY_PATH` to include the necessary libraries in VSC:
     ```bash
     export LD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu
     ```
