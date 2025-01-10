@@ -24,7 +24,7 @@ The project requires the following Python packages:
 - **Whisper**: `20240930` (latest release at the time of writing)
 - **MoviePy**: `1.0.3`
 - **Pydub**: `0.25.1`
-- **NumPy**: `2.0.2`
+- **NumPy**: `1.26.4` (Crashing on latest 2.0.2)
 - **PyTorch**: `2.5.1`
 
 You can install all dependencies using the following command:
